@@ -1,0 +1,61 @@
+.myimg{
+  width:500px;
+  height:500px;
+  object-fit:cover;
+  border: solid black;
+  border-radius: 100%;
+  border-width: 25px;
+  font-size: 40px;
+}
+.Title{
+  border: solid black;
+  width: 100%px;
+  height: 10%px;
+  padding: 25px;
+  border-radius: 0%;
+  font: italic;
+  font-family: cursive;
+  background-color: purple;
+  border-width: 20px;
+  color: Cyan;
+  font-size: 250px;
+  margin: 0px;
+}
+body{
+  background-color: Yellow;
+}
+.yes{
+  font-size: 38px;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+.summary{
+  font-size: 50px;
+}
+.no{
+   font-size: 38px;
+  margin-left: 90px;
+  margin-right: 90px;
+  word-spacing: 50px;
+}
+.maybe{
+  font-size: 24px;
+  margin-left: 30px;
+  margin-right: 90px;
+  word-spacing: 5px;
+}
+.Bibliography{
+  font-size: 72px;
+  color: blue;
+  font-weight: bold;
+  border-radius: 100%;
+  width: 500px;
+  height: 500px;
+}
+.button{
+  border-radius: 100%;
+}
+.e{
+  margin-left: 60px;
+  margin-right: 60px;
+}
